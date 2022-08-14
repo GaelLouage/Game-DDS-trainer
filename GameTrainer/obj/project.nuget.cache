@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D43lI1z8eSs5SidvH/ICPTxvtNt61fJpaZ5EI4v2eIDNDUtRXpzpGxP9Cf++DWoFXcR+0Hn+RYIhkU4yAtwJzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\louag\\Desktop\\Projecten\\GameTrainer\\GameTrainer\\GameTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louag\\.nuget\\packages\\memory.dll.x64\\1.2.21\\memory.dll.x64.1.2.21.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
